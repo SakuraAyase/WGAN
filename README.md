@@ -1,0 +1,2 @@
+# WGAN
+Wasserstein GAN
